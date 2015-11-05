@@ -1,0 +1,47 @@
+
+
+body{
+    background-color: #cccccc;
+    text-align: center;
+}
+#formul { 
+    margin: 0 auto;
+    padding: 20px 0px 0px 30px;   /* margen con valores: arriba - derecha - abajo - izquierda */
+    font-family:verdana,arial;
+    font-size:14pt;
+    border: 5px solid #1c9db9;
+    width: 300px;
+    height: 290px;
+    background-color: #ffffff;
+    font-family: verdana,arial;
+    
+} 
+
+.campos { 
+    
+    font-family:verdana,arial;     /* tipo de letra */ 
+    width: 200px;                 /* anchura de campos de formulario */ 
+    font-size:12pt;                /* tamaño de la letra*/  
+    color:#010a0c;                /* color del texto */  
+    border: 1px dotted red;        /* color del borde puede ser solid ó dotted */  
+    background-color:#bceef8;   /* color del fondo */  
+} 
+
+.boton{
+    font-size:15px;
+    font-family:Verdana,Helvetica;
+    font-weight:bold;
+    color:#000f12;
+    background:#059bbc;
+    border:0px;
+    width:140px;
+    height:28px;
+}
+
+#b_reset { 
+    margin: 0px 0px 0px 0px;    /* margen con valores: arriba - derecha - abajo - izquierda */ 
+} 
+
+#b_submit { 
+    margin: 30px 0px 0px 10px;    /* margen con valores: arriba - derecha - abajo - izquierda */ 
+}  
